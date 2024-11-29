@@ -5,7 +5,7 @@ print('=' * 45)
 for category in menu:
     print('{:^15s}'.format(category), end = ' ')
 print()
-print('=' * 45)
+print('=' * 4555)
 
 for ckind in coffee:
     print('{:^10s}'.format(ckind))
